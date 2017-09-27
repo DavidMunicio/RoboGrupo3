@@ -33,6 +33,7 @@
 
 #include <genericworker.h>
 #include <innermodel/innermodel.h>
+#include <vector>
 
 class SpecificWorker : public GenericWorker
 {
